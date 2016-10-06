@@ -1,0 +1,112 @@
+body{
+  background: url(food.jpg);
+  background-size: cover;
+}
+
+
+.food{
+  font-family: 'Shrikhand', cursive;
+  font-size:300px;
+  align-content: center;
+  margin-left: 20%;
+  margin-bottom: -80px;
+}
+
+.categories{
+  display:inline;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 75px;
+  text-decoration-color: black;
+  margin-left: 30%;
+  margin-top: -80px;
+}
+a{
+    text-decoration-color: black;
+    text-decoration: none;
+    color: #000000; text-decoration: none;
+    margin-left: 30%;
+    padding: 10px;
+    font-stretch: extra-expanded;
+}
+
+/*to keep page same size*/
+.min-width{
+  min-width: 960px; 
+  margin: 0 auto;
+}
+
+/* Change the link color to #111 (black) on hover */
+.recipes:hover {
+    background-color: #E6C41A ;
+}
+.places:hover{
+  background-color: #E6C41A ;
+}
+.pictures:hover{
+  background-color: #E6C41A ;
+}
+ /*page 2*/
+
+.eggs{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px; 
+  width: 400px;
+  height:500px;
+  margin-left: 55%;
+  display;align-content: space-between;
+  display:inline-block;
+  background-color: white;
+  border: solid #E6C41A 3px;
+  padding: 5px;
+  margin-top:30px;
+  
+}
+
+.title{
+  font-family: 'Shrikhand', cursive;
+  font-size:100px;
+  align-content: center;
+  margin left:10px;
+  text-align: center;
+  text-shadow: 7px 6px 1px #E6C41A;
+  margin-bottom: -30px;
+  
+}
+
+
+.container {
+  width: 50%;
+  height: auto;
+  margin: 10px;
+  margin left:30px;
+  margin-top: -495px;
+ 
+}
+
+.container2{
+  margin: 25px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.how{
+  font-family: 'Shrikhand', cursive;
+  Font size: 30px;
+  font-stretch: semi-expanded;
+  
+}
+
+.p{
+   font-size: 20px; 
+  width: 300px;
+  height:400px;
+  
+}
+
+
+
+
