@@ -1,0 +1,36 @@
+
+body{
+  font-family: 'Abel', sans-serif;
+}
+
+
+.food{
+  font-size: 100px;
+  font-family: 'Abel', sans-serif;
+  text-decoration-color: black;
+  letter-spacing: 30px;
+  margin-bottom: 100px;
+  
+  
+}
+
+.title{
+  text-decoration-color: black;
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
+  letter-spacing:10px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 20px;
+  font-family: serif;
+}
+
+.row {
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
